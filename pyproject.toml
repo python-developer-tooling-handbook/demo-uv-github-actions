@@ -3,7 +3,7 @@ name = "demo-uv-github-actions"
 version = "0.1.0"
 description = "Example project for the GitHub Actions + uv tutorial"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.12"
 dependencies = []
 
 [dependency-groups]
